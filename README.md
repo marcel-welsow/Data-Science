@@ -10,3 +10,4 @@ Beuth-Hochschule für Technik
   
 * R and Julia Excercise
   * [Write a program to guess a number in between0 and 100!](r-and-julia-exercises/guess-a-number.r)
+  * [Analyse the esoph dataset](r-and-julia-exercises/esoph.r)
