@@ -11,3 +11,4 @@ Beuth-Hochschule für Technik
 * R and Julia Excercise
   * [Write a program to guess a number in between0 and 100!](r-and-julia-exercises/guess-a-number.r)
   * [Analyse the esoph dataset](r-and-julia-exercises/esoph.r)
+  * [Create a 2x4 two dimensional matrix with random floats in it and in the next step determine the biggest element](r-and-julia-exercises/matrix.jl)
